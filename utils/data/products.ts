@@ -1,7 +1,7 @@
 export const products = [
   {
     id: '1',
-    name: 'T-Shirt Summer Vibes',
+    name: 'T-Shirt winter Vibes',
     price: 119.99,
     discount: 30,
     quantityAvailable: 2,
